@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\bin\Debug\net6.0\NumberGuessingGameInC_Sharp.exe
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\bin\Debug\net6.0\NumberGuessingGameInC_Sharp.deps.json
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\bin\Debug\net6.0\NumberGuessingGameInC_Sharp.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\bin\Debug\net6.0\NumberGuessingGameInC_Sharp.dll
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\bin\Debug\net6.0\NumberGuessingGameInC_Sharp.pdb
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\obj\Debug\net6.0\NumberGuessingGameInC_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\obj\Debug\net6.0\NumberGuessingGameInC_Sharp.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\obj\Debug\net6.0\NumberGuessingGameInC_Sharp.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\obj\Debug\net6.0\NumberGuessingGameInC_Sharp.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\obj\Debug\net6.0\NumberGuessingGameInC_Sharp.dll
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\obj\Debug\net6.0\refint\NumberGuessingGameInC_Sharp.dll
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\obj\Debug\net6.0\NumberGuessingGameInC_Sharp.pdb
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\obj\Debug\net6.0\NumberGuessingGameInC_Sharp.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\NumberGuessingGameInC_Sharp\obj\Debug\net6.0\ref\NumberGuessingGameInC_Sharp.dll

@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\bin\Debug\net6.0\CalculateSize_of_Folder.exe
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\bin\Debug\net6.0\CalculateSize_of_Folder.deps.json
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\bin\Debug\net6.0\CalculateSize_of_Folder.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\bin\Debug\net6.0\CalculateSize_of_Folder.dll
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\bin\Debug\net6.0\CalculateSize_of_Folder.pdb
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\obj\Debug\net6.0\CalculateSize_of_Folder.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\obj\Debug\net6.0\CalculateSize_of_Folder.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\obj\Debug\net6.0\CalculateSize_of_Folder.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\obj\Debug\net6.0\CalculateSize_of_Folder.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\obj\Debug\net6.0\CalculateSize_of_Folder.dll
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\obj\Debug\net6.0\refint\CalculateSize_of_Folder.dll
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\obj\Debug\net6.0\CalculateSize_of_Folder.pdb
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\obj\Debug\net6.0\CalculateSize_of_Folder.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\CalculateSize_of_Folder\obj\Debug\net6.0\ref\CalculateSize_of_Folder.dll

@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\bin\Debug\net6.0\PerformCurrencyConversions.exe
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\bin\Debug\net6.0\PerformCurrencyConversions.deps.json
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\bin\Debug\net6.0\PerformCurrencyConversions.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\bin\Debug\net6.0\PerformCurrencyConversions.dll
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\bin\Debug\net6.0\PerformCurrencyConversions.pdb
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\obj\Debug\net6.0\PerformCurrencyConversions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\obj\Debug\net6.0\PerformCurrencyConversions.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\obj\Debug\net6.0\PerformCurrencyConversions.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\obj\Debug\net6.0\PerformCurrencyConversions.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\obj\Debug\net6.0\PerformCurrencyConversions.dll
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\obj\Debug\net6.0\refint\PerformCurrencyConversions.dll
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\obj\Debug\net6.0\PerformCurrencyConversions.pdb
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\obj\Debug\net6.0\PerformCurrencyConversions.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\PerformCurrencyConversions\obj\Debug\net6.0\ref\PerformCurrencyConversions.dll

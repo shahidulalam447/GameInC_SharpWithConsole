@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\bin\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.exe
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\bin\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.deps.json
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\bin\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\bin\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.dll
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\bin\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.pdb
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\obj\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\obj\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\obj\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\obj\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\obj\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.dll
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\obj\Debug\net6.0\refint\CheckEnteredNumber_isPerfectOrNot.dll
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\obj\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.pdb
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\obj\Debug\net6.0\CheckEnteredNumber_isPerfectOrNot.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\CheckEnteredNumber_isPerfectOrNot\obj\Debug\net6.0\ref\CheckEnteredNumber_isPerfectOrNot.dll

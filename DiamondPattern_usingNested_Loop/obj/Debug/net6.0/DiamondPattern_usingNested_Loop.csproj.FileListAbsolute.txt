@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\bin\Debug\net6.0\DiamondPattern_usingNested_Loop.exe
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\bin\Debug\net6.0\DiamondPattern_usingNested_Loop.deps.json
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\bin\Debug\net6.0\DiamondPattern_usingNested_Loop.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\bin\Debug\net6.0\DiamondPattern_usingNested_Loop.dll
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\bin\Debug\net6.0\DiamondPattern_usingNested_Loop.pdb
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\obj\Debug\net6.0\DiamondPattern_usingNested_Loop.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\obj\Debug\net6.0\DiamondPattern_usingNested_Loop.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\obj\Debug\net6.0\DiamondPattern_usingNested_Loop.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\obj\Debug\net6.0\DiamondPattern_usingNested_Loop.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\obj\Debug\net6.0\DiamondPattern_usingNested_Loop.dll
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\obj\Debug\net6.0\refint\DiamondPattern_usingNested_Loop.dll
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\obj\Debug\net6.0\DiamondPattern_usingNested_Loop.pdb
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\obj\Debug\net6.0\DiamondPattern_usingNested_Loop.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\DiamondPattern_usingNested_Loop\obj\Debug\net6.0\ref\DiamondPattern_usingNested_Loop.dll

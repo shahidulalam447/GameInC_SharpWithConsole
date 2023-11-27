@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.exe
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.deps.json
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.dll
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.pdb
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.dll
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\obj\Debug\net6.0\refint\SwapTwoNumbers.dll
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.pdb
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\SwapTwoNumbers\obj\Debug\net6.0\ref\SwapTwoNumbers.dll

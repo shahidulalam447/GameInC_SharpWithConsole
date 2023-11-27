@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CheckEnteredNumber_isPerfectOrNot/1.0.0": {
+        "runtime": {
+          "CheckEnteredNumber_isPerfectOrNot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckEnteredNumber_isPerfectOrNot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

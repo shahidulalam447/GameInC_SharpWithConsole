@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\bin\Debug\net6.0\Find_nCr_Combination.exe
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\bin\Debug\net6.0\Find_nCr_Combination.deps.json
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\bin\Debug\net6.0\Find_nCr_Combination.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\bin\Debug\net6.0\Find_nCr_Combination.dll
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\bin\Debug\net6.0\Find_nCr_Combination.pdb
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\obj\Debug\net6.0\Find_nCr_Combination.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\obj\Debug\net6.0\Find_nCr_Combination.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\obj\Debug\net6.0\Find_nCr_Combination.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\obj\Debug\net6.0\Find_nCr_Combination.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\obj\Debug\net6.0\Find_nCr_Combination.dll
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\obj\Debug\net6.0\refint\Find_nCr_Combination.dll
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\obj\Debug\net6.0\Find_nCr_Combination.pdb
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\obj\Debug\net6.0\Find_nCr_Combination.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\Find_nCr_Combination\obj\Debug\net6.0\ref\Find_nCr_Combination.dll

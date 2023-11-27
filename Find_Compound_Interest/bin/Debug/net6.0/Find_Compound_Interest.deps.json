@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Find_Compound_Interest/1.0.0": {
+        "runtime": {
+          "Find_Compound_Interest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_Compound_Interest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

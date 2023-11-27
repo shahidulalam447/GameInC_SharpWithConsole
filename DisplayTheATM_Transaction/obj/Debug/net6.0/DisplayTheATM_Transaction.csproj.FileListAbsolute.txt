@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\bin\Debug\net6.0\DisplayTheATM_Transaction.exe
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\bin\Debug\net6.0\DisplayTheATM_Transaction.deps.json
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\bin\Debug\net6.0\DisplayTheATM_Transaction.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\bin\Debug\net6.0\DisplayTheATM_Transaction.dll
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\bin\Debug\net6.0\DisplayTheATM_Transaction.pdb
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\obj\Debug\net6.0\DisplayTheATM_Transaction.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\obj\Debug\net6.0\DisplayTheATM_Transaction.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\obj\Debug\net6.0\DisplayTheATM_Transaction.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\obj\Debug\net6.0\DisplayTheATM_Transaction.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\obj\Debug\net6.0\DisplayTheATM_Transaction.dll
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\obj\Debug\net6.0\refint\DisplayTheATM_Transaction.dll
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\obj\Debug\net6.0\DisplayTheATM_Transaction.pdb
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\obj\Debug\net6.0\DisplayTheATM_Transaction.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\DisplayTheATM_Transaction\obj\Debug\net6.0\ref\DisplayTheATM_Transaction.dll

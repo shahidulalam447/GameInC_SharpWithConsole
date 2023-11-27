@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Check_givenNumber_EvenOrOdd/1.0.0": {
+        "runtime": {
+          "Check_givenNumber_EvenOrOdd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check_givenNumber_EvenOrOdd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

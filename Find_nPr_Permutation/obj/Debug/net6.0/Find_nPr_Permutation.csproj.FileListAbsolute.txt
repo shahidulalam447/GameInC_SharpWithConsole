@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\bin\Debug\net6.0\Find_nPr_Permutation.exe
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\bin\Debug\net6.0\Find_nPr_Permutation.deps.json
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\bin\Debug\net6.0\Find_nPr_Permutation.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\bin\Debug\net6.0\Find_nPr_Permutation.dll
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\bin\Debug\net6.0\Find_nPr_Permutation.pdb
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\obj\Debug\net6.0\Find_nPr_Permutation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\obj\Debug\net6.0\Find_nPr_Permutation.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\obj\Debug\net6.0\Find_nPr_Permutation.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\obj\Debug\net6.0\Find_nPr_Permutation.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\obj\Debug\net6.0\Find_nPr_Permutation.dll
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\obj\Debug\net6.0\refint\Find_nPr_Permutation.dll
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\obj\Debug\net6.0\Find_nPr_Permutation.pdb
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\obj\Debug\net6.0\Find_nPr_Permutation.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\Find_nPr_Permutation\obj\Debug\net6.0\ref\Find_nPr_Permutation.dll

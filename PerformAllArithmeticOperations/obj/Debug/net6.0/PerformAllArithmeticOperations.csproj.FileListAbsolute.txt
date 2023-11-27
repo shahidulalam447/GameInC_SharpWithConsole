@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\bin\Debug\net6.0\PerformAllArithmeticOperations.exe
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\bin\Debug\net6.0\PerformAllArithmeticOperations.deps.json
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\bin\Debug\net6.0\PerformAllArithmeticOperations.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\bin\Debug\net6.0\PerformAllArithmeticOperations.dll
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\bin\Debug\net6.0\PerformAllArithmeticOperations.pdb
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\obj\Debug\net6.0\PerformAllArithmeticOperations.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\obj\Debug\net6.0\PerformAllArithmeticOperations.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\obj\Debug\net6.0\PerformAllArithmeticOperations.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\obj\Debug\net6.0\PerformAllArithmeticOperations.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\obj\Debug\net6.0\PerformAllArithmeticOperations.dll
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\obj\Debug\net6.0\refint\PerformAllArithmeticOperations.dll
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\obj\Debug\net6.0\PerformAllArithmeticOperations.pdb
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\obj\Debug\net6.0\PerformAllArithmeticOperations.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\PerformAllArithmeticOperations\obj\Debug\net6.0\ref\PerformAllArithmeticOperations.dll

@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\bin\Debug\net6.0\Find_Compound_Interest.exe
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\bin\Debug\net6.0\Find_Compound_Interest.deps.json
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\bin\Debug\net6.0\Find_Compound_Interest.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\bin\Debug\net6.0\Find_Compound_Interest.dll
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\bin\Debug\net6.0\Find_Compound_Interest.pdb
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\obj\Debug\net6.0\Find_Compound_Interest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\obj\Debug\net6.0\Find_Compound_Interest.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\obj\Debug\net6.0\Find_Compound_Interest.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\obj\Debug\net6.0\Find_Compound_Interest.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\obj\Debug\net6.0\Find_Compound_Interest.dll
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\obj\Debug\net6.0\refint\Find_Compound_Interest.dll
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\obj\Debug\net6.0\Find_Compound_Interest.pdb
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\obj\Debug\net6.0\Find_Compound_Interest.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\Find_Compound_Interest\obj\Debug\net6.0\ref\Find_Compound_Interest.dll

@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\bin\Debug\net6.0\CheckLeapYear.exe
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\bin\Debug\net6.0\CheckLeapYear.deps.json
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\bin\Debug\net6.0\CheckLeapYear.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\bin\Debug\net6.0\CheckLeapYear.dll
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\bin\Debug\net6.0\CheckLeapYear.pdb
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\obj\Debug\net6.0\CheckLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\obj\Debug\net6.0\CheckLeapYear.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\obj\Debug\net6.0\CheckLeapYear.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\obj\Debug\net6.0\CheckLeapYear.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\obj\Debug\net6.0\CheckLeapYear.dll
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\obj\Debug\net6.0\refint\CheckLeapYear.dll
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\obj\Debug\net6.0\CheckLeapYear.pdb
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\obj\Debug\net6.0\CheckLeapYear.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\CheckLeapYear\obj\Debug\net6.0\ref\CheckLeapYear.dll

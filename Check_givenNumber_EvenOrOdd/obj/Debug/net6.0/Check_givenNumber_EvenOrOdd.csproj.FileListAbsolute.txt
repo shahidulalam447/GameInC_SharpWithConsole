@@ -1,0 +1,14 @@
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\bin\Debug\net6.0\Check_givenNumber_EvenOrOdd.exe
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\bin\Debug\net6.0\Check_givenNumber_EvenOrOdd.deps.json
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\bin\Debug\net6.0\Check_givenNumber_EvenOrOdd.runtimeconfig.json
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\bin\Debug\net6.0\Check_givenNumber_EvenOrOdd.dll
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\bin\Debug\net6.0\Check_givenNumber_EvenOrOdd.pdb
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\obj\Debug\net6.0\Check_givenNumber_EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\obj\Debug\net6.0\Check_givenNumber_EvenOrOdd.AssemblyInfoInputs.cache
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\obj\Debug\net6.0\Check_givenNumber_EvenOrOdd.AssemblyInfo.cs
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\obj\Debug\net6.0\Check_givenNumber_EvenOrOdd.csproj.CoreCompileInputs.cache
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\obj\Debug\net6.0\Check_givenNumber_EvenOrOdd.dll
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\obj\Debug\net6.0\refint\Check_givenNumber_EvenOrOdd.dll
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\obj\Debug\net6.0\Check_givenNumber_EvenOrOdd.pdb
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\obj\Debug\net6.0\Check_givenNumber_EvenOrOdd.genruntimeconfig.cache
+G:\Project\cSharp\GameInC_Sharp\Check_givenNumber_EvenOrOdd\obj\Debug\net6.0\ref\Check_givenNumber_EvenOrOdd.dll
